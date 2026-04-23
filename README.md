@@ -15,6 +15,7 @@ cd Discrete_Time_PID_Simulation
 ```
 ```bash
 # Create a build directory and compile
+mkdir build
 cd build
 cmake ..
 make
