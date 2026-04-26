@@ -10,7 +10,7 @@ Clone the repository and build the project using CMake:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/yourusername/Discrete_Time_PID_Simulation.git](https://github.com/yourusername/Discrete_Time_PID_Simulation.git)
+git clone https://github.com/yigitcilb/Discrete_Time_PID_Simulation.git
 cd Discrete_Time_PID_Simulation
 ```
 ```bash
